@@ -1,71 +1,107 @@
-<h1 align="center">Hi 👋, I'm Mayura Pabasara</h1>
+# 🌟 Hi, I'm Mayura Pabasara
+### Full Stack Developer | Computer Science Student | Tech Enthusiast
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Undergraduate;React+%7C+Spring+Boot;Open+Source+Contributor;Always+Learning+New+Things" />
+  </a>
 </p>
 
-<h3 align="center">I’m a passionate Full Stack Developer from Sri Lanka, dedicated to crafting seamless and scalable digital experiences. I enjoy transforming creative ideas into efficient, high-performing web applications using modern technologies and best development practices.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20views&color=0e75b6&style=flat" alt="mayurapabasara" /> </p>
+## 🚀 About Me
+I'm a passionate **Full Stack Developer from Sri Lanka**, focused on building **scalable, user-centric, and visually stunning digital experiences**.  
+I enjoy turning creative ideas into **real-world applications** using modern technologies and **best engineering practices**.
 
-<p align="left"> <a href="https://twitter.com/mayura pabasara" target="blank"><img src="https://img.shields.io/twitter/follow/mayura pabasara?logo=twitter&style=for-the-badge" alt="mayura pabasara" /></a> </p>
+- 🔭 Currently working on: **Racing Hub – Vehicle Management System**  
+- 🌱 Learning: **Advanced Java, Spring Boot, Cloud & DevOps**  
+- 🤝 Open to: **Open-source collaborations, cloud-native systems, and full-stack projects**  
+- 💬 Ask me about: **React, Spring Boot, DevOps, Cloud, PHP, MySQL, JavaScript**  
+- 📫 Reach me: **pabasara2523@gmail.com**  
+- 👨‍💻 All projects: [GitHub](https://github.com/MayuraPabasara)  
+- 📝 Articles: [Medium](https://medium.com/@MayuraPabasara)  
+- 🔗 LinkedIn: [Mayura Pabasara](https://www.linkedin.com/in/mayura-pabasara)
 
-- 🔭 I’m currently working on **Racing Hub**
+---
 
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **Open-source collaborations, advanced cloud-native architectures, and full-stack project optimizations.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MayuraPabasara](https://github.com/MayuraPabasara)
-
-- 📝 I regularly write articles on [https://medium.com/@MayuraPabasara](https://medium.com/@MayuraPabasara)
-
-- 💬 Ask me about **ull Stack Development, React, Spring Boot, DevOps, and Cloud Technologies.**
-
-- 📫 How to reach me **pabasara2523@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayura-pabasara](https://www.linkedin.com/in/mayura-pabasara)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mayura pabasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayura pabasara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayura pabasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayura pabasara" height="30" width="40" /></a>
-<a href="https://fb.com/mayura pabasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayura pabasara" height="30" width="40" /></a>
-<a href="https://instagram.com/mayura pabasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayura pabasara" height="30" width="40" /></a>
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/MayuraPabasara"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://linkedin.com/in/mayura-pabasara"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://facebook.com/mayurapabasara"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+  <a href="https://instagram.com/mayura_pabasara"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="mailto:pabasara2523@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<div>
-    <div>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurapabasara&show_icons=true&locale=en&layout=compact" alt="mayurapabasara" /></p>
-    </div>
-    <div>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurapabasara&show_icons=true&locale=en" alt="mayurapabasara" /></p>
-    </div>
-    <div>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurapabasara&" alt="mayurapabasara" /></p>
-    </div>
-  </div>
+## 🛠️ Tech Stack & Tools
 
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurapabasara" alt="mayurapabasara" /></a> </p>
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,python" />
+</p>
 
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,aws,linux,docker,kubernetes" />
+</p>
 
-<!--
-**Mayurapabasara/Mayurapabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Featured Projects
+<p align="center">
+  <a href="https://github.com/MayuraPabasara/RacingHub">
+    <img src="https://img.shields.io/badge/RacingHub-Full%20Stack-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MayuraPabasara/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-React-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MayuraPabasara/BlogApp">
+    <img src="https://img.shields.io/badge/BlogApp-PHP-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MayuraPabasara/ChatApp">
+    <img src="https://img.shields.io/badge/ChatApp-NodeJS-red?style=for-the-badge" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mayurapabasara&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurapabasara&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurapabasara&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurapabasara&theme=onedark&margin-w=10" />
+</p>
+
+---
+
+## 🎯 Mission
+> **To build innovative, scalable solutions that create impact,  
+> and keep learning new technologies every single day.**
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
