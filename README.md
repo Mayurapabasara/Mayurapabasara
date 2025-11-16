@@ -1,33 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MayuraPabasara.png" width="150" style="border-radius:50%;" alt="Mayura Pabasara" />
-</p>
-
-# Hi, I’m **Mayura Pabasara** 👋
-### Full Stack Developer | Computer Science Student | Open Source Contributor
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=28&center=true&vCenter=true&width=600&height=100&lines=Building+Scalable+Web+Applications;React+%7C+Spring+Boot+%7C+PHP;Always+Learning+New+Technologies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2049553/screenshots/17009091/media/69d0c2efb5dcfa9360e3511b17b7206d.png?compress=1&resize=600x400" width="400" alt="welcome-banner"/>
-</p>
-
-<p align="center">
-I’m a dedicated Full Stack Developer from Sri Lanka, passionate about crafting <strong>efficient, high-performing, and elegant web solutions</strong>.  
-I specialize in turning ideas into robust digital products using modern technologies and best engineering practices.
-</p>
-
-
-
-
-
-
-
-
-
 # 👋 Hello, I’m **Mayura Pabasara**  
 ### Full Stack Developer | Computer Science Student | Tech Enthusiast
 
