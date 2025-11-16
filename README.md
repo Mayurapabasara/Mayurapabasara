@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Mayura Pabasara
+# 👋 Hello, I’m **Mayura Pabasara**  
 ### Full Stack Developer | Computer Science Student | Tech Enthusiast
 
 <p align="center">
