@@ -8,6 +8,7 @@
 </p>
 
 ---
+<img width="512" height="512" alt="add-user" src="https://github.com/user-attachments/assets/d38f7314-eddc-4504-99e3-bafc11e76aad" />
 
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer from Sri Lanka**, focused on building **scalable, user-centric, and visually stunning digital experiences**.  
