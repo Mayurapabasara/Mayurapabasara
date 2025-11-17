@@ -24,7 +24,7 @@ I enjoy turning creative ideas into **real-world applications** using modern tec
 
 ---
 
-## 🤝 Connect With Me
+<!-- ## 🤝 Connect With Me
 <p align="center">
   <a href="https://twitter.com/MayuraPabasara"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
   <a href="https://linkedin.com/in/mayura-pabasara"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
@@ -87,7 +87,7 @@ I enjoy turning creative ideas into **real-world applications** using modern tec
 </p>
 
 ---
-
+-->
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayurapabasara&theme=onedark&margin-w=10" />
