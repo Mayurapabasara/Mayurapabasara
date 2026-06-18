@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 I'm a passionate **Full Stack Developer from Sri Lanka**, focused on building **scalable, user-centric, and visually stunning digital experiences**.  
 I enjoy turning creative ideas into **real-world applications** using modern technologies and **best engineering practices**.
 
@@ -27,6 +27,7 @@ I enjoy turning creative ideas into **real-world applications** using modern tec
 - 📝 Articles: [Medium](https://medium.com/@MayuraPabasara)  
 - 🔗 LinkedIn: [Mayura Pabasara](https://www.linkedin.com/in/mayura-pabasara)
 
+-->
 ---
 
 
@@ -39,7 +40,6 @@ public class MayuraPabasara {
 
     private final String name = "Mayura Pabasara";
     private final String role = "Software Engineer | Full Stack Developer";
-    private final String location = "Sri Lanka 🇱🇰";
 
     private final String education =
             "BSc Computer Science Undergraduate @ University of Ruhuna";
@@ -50,24 +50,14 @@ public class MayuraPabasara {
             "Cloud & DevOps"
     };
 
-    private final String[] currentProjects = {
-            "WorkSure - Skilled Workers Finder System",
-            "Vehicle Management System",
-            "Rentora - E-Commerce Platform"
-    };
-
     private final String[] currentlyLearning = {
-            "Spring Boot",
-            "Microservices",
-            "AWS Cloud",
-            "Docker & Kubernetes",
-            "CI/CD Pipelines"
+            "Spring Boot","Microservices","AWS Cloud",
+            "Docker & Kubernetes","CI/CD Pipelines"
     };
 
     private final String[] techStack = {
-            "Java", "Spring Boot", "React",
-            "Node.js", "Laravel", "PHP",
-            "MySQL", "MongoDB", "Docker"
+            "Java", "Spring Boot", "React","Node.js", "Laravel",
+            "PHP", "MySQL", "MongoDB", "Docker"
     };
 
     private final String philosophy =
@@ -113,9 +103,7 @@ public class MayuraPabasara {
 
 `Docker` `Git` `GitHub` `Postman` `AWS`
 
-### 🎯 Career Goal
-
-To become a Software Engineer who designs and develops scalable, reliable, and impactful software solutions while continuously growing in Cloud Computing, DevOps, and Software Architecture.
+---
 
 ### 🌐 Connect With Me
 
@@ -124,9 +112,13 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 * 📝 Medium: **[MayuraPabasara](https://medium.com/@MayuraPabasara)**
 * 💻 GitHub: **[MayuraPabasara](https://github.com/MayuraPabasara)**
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> *"First, solve the problem. Then, write the code."* – Mayura Pabasara
 
 ---
+
+### 🎯 Career Goal
+
+To become a Software Engineer who designs and develops scalable, reliable, and impactful software solutions while continuously growing in Cloud Computing, DevOps, and Software Architecture.
 
 
 
@@ -201,14 +193,9 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 </p>
 
 ---
-
-## 🎯 Mission
-> **To build innovative, scalable solutions that create impact,  
-> and keep learning new technologies every single day.**
-
----
-
+<!--
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+-->
