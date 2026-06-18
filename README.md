@@ -32,9 +32,9 @@ I enjoy turning creative ideas into **real-world applications** using modern tec
 
 
 ## 🧠 About Me
-
+<!--
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+-->
 ```java
 public class MayuraPabasara {
 
