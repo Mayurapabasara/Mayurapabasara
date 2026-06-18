@@ -63,21 +63,23 @@ public class MayuraPabasara {
 * 🤝 Open to **Software Engineering Internships and Open Source Contributions**
 * 💬 Ask me about **Java, Spring Boot, React, PHP, Laravel, MySQL, Docker**
 
+---
+
 ### 🛠️ Technologies & Tools
 
-**Languages**
+**Languages :**
 `Java` `JavaScript` `TypeScript` `PHP` `C`
 
-**Frontend**
+**Frontend :**
 `React` `Vite` `Tailwind CSS` `HTML5` `CSS3`
 
-**Backend**
+**Backend :**
 `Spring Boot` `Node.js` `Express.js` `Laravel`
 
-**Databases**
+**Databases :**
 `MySQL` `MongoDB`
 
-**DevOps & Tools**
+**DevOps & Tools :**
 `Docker` `Git` `GitHub` `Postman` `AWS`
 
 ---
