@@ -50,7 +50,6 @@ public class MayuraPabasara {
     }
 }
 ```
-
 <br clear="right"/>
 
 ---
@@ -164,14 +163,14 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurapabasara&theme=radical" />
 </p>
 
----
 -->
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurapabasara&theme=onedark&margin-w=10" />
-</p>
 
 ---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayurapabasara&theme=onedark&margin-w=10" />
+</p>
 <!--
 ## 👀 Profile Views
 <p align="center">
