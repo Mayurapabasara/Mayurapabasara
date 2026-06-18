@@ -5,8 +5,8 @@
 
 </div>
 
-# 👋 Hello, I’m **Mayura Pabasara**  
-### Full Stack Developer | Computer Science Student | Tech Enthusiast
+<!-- # 👋 Hello, I’m **Mayura Pabasara**  
+### Full Stack Developer | Computer Science Student | Tech Enthusiast -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
