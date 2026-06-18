@@ -82,7 +82,7 @@ public class MayuraPabasara {
 `Docker` `Git` `GitHub` `Postman` `AWS`
 
 ---
-
+<!--
 ### 🌐 Connect With Me
 
 * 📧 Email: **[pabasara2523@gmail.com](mailto:pabasara2523@gmail.com)**
@@ -90,15 +90,14 @@ public class MayuraPabasara {
 * 📝 Medium: **[MayuraPabasara](https://medium.com/@MayuraPabasara)**
 * 💻 GitHub: **[MayuraPabasara](https://github.com/MayuraPabasara)**
 
-> *"First, solve the problem. Then, write the code."* – Mayura Pabasara
-
----
+> 
+-->
 
 ### 🎯 Career Goal
 
 To become a Software Engineer who designs and develops scalable, reliable, and impactful software solutions while continuously growing in Cloud Computing, DevOps, and Software Architecture.
 
-
+*"First, solve the problem. Then, write the code."* – Mayura Pabasara
 
 
 <!-- ## 🤝 Connect With Me
