@@ -29,6 +29,108 @@ I enjoy turning creative ideas into **real-world applications** using modern tec
 
 ---
 
+
+## 🧠 About Me
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```java
+public class MayuraPabasara {
+
+    private final String name = "Mayura Pabasara";
+    private final String role = "Software Engineer | Full Stack Developer";
+    private final String location = "Sri Lanka 🇱🇰";
+
+    private final String education =
+            "BSc Computer Science Undergraduate @ University of Ruhuna";
+
+    private final String[] expertise = {
+            "Full Stack Development",
+            "Backend Engineering",
+            "Cloud & DevOps"
+    };
+
+    private final String[] currentProjects = {
+            "WorkSure - Skilled Workers Finder System",
+            "Vehicle Management System",
+            "Rentora - E-Commerce Platform"
+    };
+
+    private final String[] currentlyLearning = {
+            "Spring Boot",
+            "Microservices",
+            "AWS Cloud",
+            "Docker & Kubernetes",
+            "CI/CD Pipelines"
+    };
+
+    private final String[] techStack = {
+            "Java", "Spring Boot", "React",
+            "Node.js", "Laravel", "PHP",
+            "MySQL", "MongoDB", "Docker"
+    };
+
+    private final String philosophy =
+            "Build scalable software, solve real-world problems, and keep learning.";
+
+    public void sayHi() {
+        System.out.println(
+            "Welcome to my GitHub profile. Let's build something amazing! 🚀"
+        );
+    }
+}
+```
+
+<br clear="right"/>
+
+### 🚀 Current Focus
+
+* 🔭 Building scalable **Full-Stack Applications**
+* 🌱 Learning **Cloud Computing, AWS, Kubernetes & DevOps**
+* 💡 Exploring **Software Architecture & System Design**
+* 🤝 Open to **Software Engineering Internships and Open Source Contributions**
+* 💬 Ask me about **Java, Spring Boot, React, PHP, Laravel, MySQL, Docker**
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+
+`Java` `JavaScript` `TypeScript` `PHP` `C`
+
+**Frontend**
+
+`React` `Vite` `Tailwind CSS` `HTML5` `CSS3`
+
+**Backend**
+
+`Spring Boot` `Node.js` `Express.js` `Laravel`
+
+**Databases**
+
+`MySQL` `MongoDB`
+
+**DevOps & Tools**
+
+`Docker` `Git` `GitHub` `Postman` `AWS`
+
+### 🎯 Career Goal
+
+To become a Software Engineer who designs and develops scalable, reliable, and impactful software solutions while continuously growing in Cloud Computing, DevOps, and Software Architecture.
+
+### 🌐 Connect With Me
+
+* 📧 Email: **[pabasara2523@gmail.com](mailto:pabasara2523@gmail.com)**
+* 💼 LinkedIn: **[Mayura Pabasara](https://www.linkedin.com/in/mayura-pabasara)**
+* 📝 Medium: **[MayuraPabasara](https://medium.com/@MayuraPabasara)**
+* 💻 GitHub: **[MayuraPabasara](https://github.com/MayuraPabasara)**
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+
+
+
 <!-- ## 🤝 Connect With Me
 <p align="center">
   <a href="https://twitter.com/MayuraPabasara"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
