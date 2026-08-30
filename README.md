@@ -166,12 +166,13 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 
 ---
 
+<!--
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayurapabasara&theme=onedark&margin-w=10" />
-</p>
+</p> 
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
