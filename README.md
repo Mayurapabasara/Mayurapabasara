@@ -12,6 +12,9 @@
 ---
 
 ## 🧠 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p> -->
 <!--
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 -->
