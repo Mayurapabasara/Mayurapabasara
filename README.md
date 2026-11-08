@@ -186,8 +186,8 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mayurapabasara&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurapabasara&layout=compact&theme=radical" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=mayurapabasara&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurapabasara&layout=compact&theme=radical" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurapabasara&theme=radical" />
