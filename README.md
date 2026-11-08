@@ -182,7 +182,7 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
   </a>
 </p>
 
----
+--->
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -193,11 +193,11 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurapabasara&theme=radical" />
 </p>
 
--->
+--
 
 ---
 
-
+<!--
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayurapabasara&theme=onedark&margin-w=10" />
@@ -207,3 +207,4 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p> 
+-->
