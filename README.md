@@ -105,6 +105,31 @@ public class MayuraPabasara {
 **DevOps & Tools :**
 `Docker` `Git` `GitHub` `Postman` `AWS`
 
+
+### 🛠️ Technologies & Tools
+
+**💻 Programming Languages**
+`Java` `JavaScript` `TypeScript` `PHP` `C` `C#`
+
+**🎨 Frontend Development**
+`React.js` `Vite` `HTML5` `CSS3` `Tailwind CSS`
+
+**⚙️ Backend Development**
+`Spring Boot` `Spring MVC` `Node.js` `Express.js` `Laravel` `REST APIs`
+
+**🗄️ Databases & Data Management**
+`MySQL` `MongoDB` `Mongoose`
+
+**☁️ Cloud, DevOps & Deployment**
+`Docker` `AWS` `CI/CD` `Linux` `Nginx` `Vercel`
+
+**🔧 Development Tools & Platforms**
+`Git` `GitHub` `Postman` `Figma` `VS Code` `IntelliJ IDEA`
+
+**🔐 Authentication & Security**
+`JWT` `Laravel Sanctum` `Role-Based Access Control (RBAC)`
+
+
 ---
 <!--
 ### 🌐 Connect With Me
