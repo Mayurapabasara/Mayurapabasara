@@ -3,9 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mayura%20Pabasara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;Computer+Science+Undergraduate;React+%7C+Spring+Boot+%7C+Express.js+%7C+Laravel;Open+Source+Contributor;Always+Learning+New+Things" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=1000&height=50&lines=Full+Stack+Developer;Computer+Science+Undergraduate;React+%7C+Spring+Boot+%7C+Express.js+%7C+Laravel;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
   </a>
 </p>
 
