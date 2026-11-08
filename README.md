@@ -90,24 +90,6 @@ public class MayuraPabasara {
 
 ### 🛠️ Technologies & Tools
 
-**Languages :**
-`Java` `JavaScript` `TypeScript` `PHP` `C`
-
-**Frontend :**
-`React` `Vite` `Tailwind CSS` `HTML5` `CSS3`
-
-**Backend :**
-`Spring Boot` `Node.js` `Express.js` `Laravel`
-
-**Databases :**
-`MySQL` `MongoDB`
-
-**DevOps & Tools :**
-`Docker` `Git` `GitHub` `Postman` `AWS`
-
-
-### 🛠️ Technologies & Tools
-
 **💻 Programming Languages**
 `Java` `JavaScript` `TypeScript` `PHP` `C` `C#`
 
@@ -215,7 +197,7 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 
 ---
 
-<!--
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayurapabasara&theme=onedark&margin-w=10" />
@@ -224,4 +206,4 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurapabasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p> -->
+</p> 
