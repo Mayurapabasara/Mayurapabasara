@@ -193,10 +193,6 @@ To become a Software Engineer who designs and develops scalable, reliable, and i
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurapabasara&theme=radical" />
 </p>
 
---
-
----
-
 <!--
 ## 🏆 Achievements
 <p align="center">
