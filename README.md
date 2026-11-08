@@ -24,39 +24,55 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 -->
 ```java
+
 public class MayuraPabasara {
 
     private final String name = "Mayura Pabasara";
-    private final String role = "Software Engineer | Full Stack Developer";
+    private final String role =
+            "Full-Stack Developer | Software Engineer";
 
     private final String education =
             "BSc Computer Science Undergraduate @ University of Ruhuna";
 
     private final String[] expertise = {
-            "Full Stack Development",
-            "Backend Engineering",
-            "Cloud & DevOps"
-    };
-
-    private final String[] currentlyLearning = {
-            "Spring Boot","Microservices","AWS Cloud",
-            "Docker & Kubernetes","CI/CD Pipelines"
+        "Full-Stack Application Development",
+        "Backend Engineering & REST API Development",
+        "Database Design & System Architecture",
+        "Cloud Computing & DevOps"
     };
 
     private final String[] techStack = {
-            "Java", "Spring Boot", "React","Node.js", "Laravel",
-            "PHP", "MySQL", "MongoDB", "Docker"
+        "Java", "Spring Boot", "React", "TypeScript",
+        "JavaScript", "PHP", "Laravel", "Node.js",
+        "MySQL", "MongoDB", "Docker", "Git"
+    };
+
+    private final String[] currentlyLearning = {
+        "Advanced Java & Spring Boot",
+        "Microservices Architecture",
+        "AWS Cloud Computing",
+        "Docker & Kubernetes",
+        "CI/CD & DevOps Practices"
+    };
+
+    private final String[] featuredProjects = {
+        "VMS-GOV - Government Vehicle Management System",
+        "WorkSure - Skilled Workers Finder Platform",
+        "Rentora - Full-Stack E-Commerce Application"
     };
 
     private final String philosophy =
-            "Build scalable software, solve real-world problems, and keep learning.";
+            "Building scalable applications, solving real-world "
+          + "problems, and continuously growing as a developer.";
 
     public void sayHi() {
         System.out.println(
-            "Welcome to my GitHub profile. Let's build something amazing! 🚀"
+            "Welcome to my GitHub! "
+          + "Let's innovate, collaborate, and build something amazing! 🚀"
         );
     }
 }
+
 ```
 <br clear="right"/>
 
