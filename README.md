@@ -78,13 +78,17 @@ public class MayuraPabasara {
 
 ---
 
+
 ### 🚀 Current Focus
 
-* 🔭 Building scalable **Full-Stack Applications**
-* 🌱 Learning **Cloud Computing, AWS, Kubernetes & DevOps**
-* 💡 Exploring **Software Architecture & System Design**
-* 🤝 Open to **Software Engineering Internships and Open Source Contributions**
-* 💬 Ask me about **Java, Spring Boot, React, PHP, Laravel, MySQL, Docker**
+* 🔭 Developing real-world **Full-Stack Applications** using React, Spring Boot, and Laravel.
+* 🌱 Deepening knowledge of **Advanced Java, Spring Boot, Microservices, and System Design**.
+* ☁️ Exploring **AWS Cloud, Docker, Kubernetes, and CI/CD**.
+* 🏗️ Improving skills in **Backend Engineering, REST API Development, and Scalable Software Architecture**.
+* 🤝 Open to **Software Engineering Internships, Remote Opportunities, and Open-Source Contributions**.
+* 💬 Ask me about **Java, Spring Boot, React, Laravel, PHP, REST APIs, MySQL, and Docker**.
+* 🎯 Working towards becoming a skilled **Software Engineer** by building impactful solutions to real-world problems.
+
 
 ---
 
